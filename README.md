@@ -19,4 +19,5 @@ A mysql database and application backend for an e-commerce site. Built using MyS
 - npm run seed
 - npm start
 
-
+**Walk Through Video**
+https://drive.google.com/file/d/10b5D7g1yLnqf4cZmOFKaEbFOjI9pXYrK/view
